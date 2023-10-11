@@ -1,2 +1,0 @@
-best_scores_test{'accuracy': 0.979933110367893, 'recall': 0.9705882352941176, 'precision': 0.9850746268656716, 'f1': 0.9777777777777777}
-best_scores_valid{'epoch': 6, 'Training Loss': 0.025684827560326084, 'Valid. Loss': 0.4398696820564127, 'accuracy': 0.9331103678929766, 'recall': 0.9015151515151515, 'precision': 0.9444444444444444, 'f1': 0.9224806201550387, 'Training Time': '0:00:21'}
