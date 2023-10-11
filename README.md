@@ -4,8 +4,7 @@ This repository is a public repository of codes and datasets used in the paper "
 ## Requirements and Installation
  - PyTorch version == 2.0.0
  - Python version >= 3.10.10
- - [bertopic](https://maartengr.github.io/BERTopic/index.html) version == 0.14.1
-
+ - [Bertopic](https://maartengr.github.io/BERTopic/index.html) version == 0.14.1
    
 ## Access training/evaluation data through Huggingface
 You can access the training and evaluation datasets for developing the CReSE and the EC recomemdation models through Huggingface (https://huggingface.co/datasets/anonymous/clinical_trial_eligibility_crietria_recommendation)
